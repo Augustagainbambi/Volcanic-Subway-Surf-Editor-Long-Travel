@@ -10,6 +10,8 @@ nine
 ![游戏截图](./1/IMG_20260528_165115.jpg)
 ten
 ![游戏截图](./1/IMG_20260528_165344.jpg)
+There is one more step
+![游戏截图](./1/IMG_20260529_093750.jpg)
 eleven
 ![游戏截图](./1/IMG_20260528_165524.jpg)
 twelve
